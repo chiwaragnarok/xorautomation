@@ -2,7 +2,7 @@
 
 ## Icon images
 
-Icon images such as button is not included here due to copyright reason.  Please capture it from game.
+Icon images such as button are not included here due to copyright reason.  Please capture it from game.
 
 ## PC vs emulator
 
@@ -18,8 +18,8 @@ Appraently, operation is window-size dependent.  Use the corresponding script fo
 | ------------ |:-------------:|
 | farm -n      | setwin_bluestacks    |
 | farm -p -n   | setwin_roxpc         | 
-| farm -n      | setwin_bluestacks    |
 | farm         | BS window maximized  |
+| fish         | BS window maximized  |
 | fish -p      | PC window maximized  |
 | buy/sell -p  | setwin_roxpc         |
 | buy/sell     | setwin_bluestacks_small |
